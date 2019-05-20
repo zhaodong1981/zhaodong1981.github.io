@@ -1,6 +1,6 @@
 ---
-page.title: 目录
-page.description： Amber的所有书籍
+title: 目录
+description： Amber的所有书籍
 ---
 # 目录
 [狼儿历险记](/book1)
